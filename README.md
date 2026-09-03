@@ -8,7 +8,7 @@ comando, simples e direto.
 
 ## Funcionalidades
 
-- Cadastrar produto
+- Cadastrar produto (nome, preco e quantidade)
 - Listar produtos cadastrados
 
 ## Como executar
@@ -19,4 +19,4 @@ python3 main.py
 
 ## Versao
 
-Versao atual: 0.1.0 (versao inicial minima)
+Versao atual: 1.0.0
