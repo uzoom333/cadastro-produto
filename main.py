@@ -16,7 +16,8 @@ def menu():
 def cadastrar():
     nome = input("Nome do produto: ")
     preco = float(input("Preco: "))
-    produtos.append(Produto(nome, preco))
+    quantidade = int(input("Quantidade: "))
+    produtos.append(Produto(nome, preco, quantidade))
     print("Produto cadastrado com sucesso.")
 
 
